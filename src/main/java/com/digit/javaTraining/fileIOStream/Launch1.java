@@ -1,6 +1,5 @@
 package com.digit.javaTraining.fileIOStream;
 
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.ObjectOutputStream;
 import java.io.Serializable;
