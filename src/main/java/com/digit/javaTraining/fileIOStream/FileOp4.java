@@ -19,6 +19,7 @@ public class FileOp4 {
 		System.out.println(f.getTotalSpace());
 		System.out.println(f.getParent());
 		System.out.println(f.getClass());
+		System.out.println(f.isDirectory());
 	}
 
 }
